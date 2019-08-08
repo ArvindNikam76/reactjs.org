@@ -26,6 +26,8 @@ permalink: community/courses.html
 
 ## Paid Courses {#paid-courses}
 
+- [Mastering React](https://codewithmosh.com/p/mastering-react/) - Build professional interactive apps with React.
+
 - [Egghead.io](https://egghead.io/browse/frameworks/react) - Short instructional videos on React and many other topics.
 
 - [Frontend Masters](https://frontendmasters.com/courses/) - Video courses on React and other frontend frameworks.
@@ -46,4 +48,3 @@ permalink: community/courses.html
 
 - [Tyler McGinnis](https://tylermcginnis.com/courses) - Tyler McGinnis provides access to his courses for a monthly fee. Courses include "React Fundamentals" and "Universal React".
 
-- [Mastering React](https://codewithmosh.com/p/mastering-react/) - Build professional interactive apps with React.
